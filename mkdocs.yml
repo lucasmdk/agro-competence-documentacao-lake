@@ -1,6 +1,0 @@
-site_name: Data Lake - Agro Competence
-site_url: https://teste_lake_agro_competence.com/
-nav:
-  - Home: index.md
-  - About: about.md
-repo_url: https://github.com/lucasmdk/agro-competence-documentacao-lake
